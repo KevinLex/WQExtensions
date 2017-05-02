@@ -105,6 +105,7 @@
 		4B958AEB1EB825E1008DE648 = {
 			isa = PBXGroup;
 			children = (
+				4B958B511EB82800008DE648 /* WQAddtions */,
 				4B958AF61EB825E1008DE648 /* WQExtensions */,
 				4B958AF51EB825E1008DE648 /* Products */,
 			);
@@ -121,7 +122,6 @@
 		4B958AF61EB825E1008DE648 /* WQExtensions */ = {
 			isa = PBXGroup;
 			children = (
-				4B958B511EB82800008DE648 /* WQAddtions */,
 				4B958AFA1EB825E1008DE648 /* AppDelegate.h */,
 				4B958AFB1EB825E1008DE648 /* AppDelegate.m */,
 				4B958AFD1EB825E1008DE648 /* ViewController.h */,
