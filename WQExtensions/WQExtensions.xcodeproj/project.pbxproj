@@ -13,26 +13,26 @@
 		4B958B021EB825E1008DE648 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B958B001EB825E1008DE648 /* Main.storyboard */; };
 		4B958B041EB825E1008DE648 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B958B031EB825E1008DE648 /* Assets.xcassets */; };
 		4B958B071EB825E1008DE648 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B958B051EB825E1008DE648 /* LaunchScreen.storyboard */; };
-		4B958B801EB82800008DE648 /* CALayer+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B551EB82800008DE648 /* CALayer+WQExtension.m */; };
-		4B958B811EB82800008DE648 /* NSArray+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B571EB82800008DE648 /* NSArray+WQExtension.m */; };
-		4B958B821EB82800008DE648 /* NSAttributedString+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B591EB82800008DE648 /* NSAttributedString+WQExtension.m */; };
-		4B958B831EB82800008DE648 /* NSBundle+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B5B1EB82800008DE648 /* NSBundle+WQExtension.m */; };
-		4B958B841EB82800008DE648 /* NSDictionary+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B5D1EB82800008DE648 /* NSDictionary+WQExtension.m */; };
-		4B958B851EB82800008DE648 /* NSObject+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B5F1EB82800008DE648 /* NSObject+WQExtension.m */; };
-		4B958B861EB82800008DE648 /* NSString+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B611EB82800008DE648 /* NSString+WQExtension.m */; };
-		4B958B871EB82800008DE648 /* UIBarButtonItem+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B631EB82800008DE648 /* UIBarButtonItem+WQExtension.m */; };
-		4B958B881EB82800008DE648 /* UIButton+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B651EB82800008DE648 /* UIButton+WQExtension.m */; };
-		4B958B891EB82800008DE648 /* UIColor+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B671EB82800008DE648 /* UIColor+WQExtension.m */; };
-		4B958B8A1EB82800008DE648 /* UIImage+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B691EB82800008DE648 /* UIImage+WQExtension.m */; };
-		4B958B8B1EB82800008DE648 /* UILabel+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B6B1EB82800008DE648 /* UILabel+WQExtension.m */; };
-		4B958B8C1EB82800008DE648 /* UIScreen+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B6D1EB82800008DE648 /* UIScreen+WQExtension.m */; };
-		4B958B8D1EB82800008DE648 /* UIView+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B6F1EB82800008DE648 /* UIView+WQExtension.m */; };
-		4B958B8E1EB82800008DE648 /* UIViewController+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B711EB82800008DE648 /* UIViewController+WQExtension.m */; };
-		4B958B8F1EB82800008DE648 /* WQCopyLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B751EB82800008DE648 /* WQCopyLabel.m */; };
-		4B958B901EB82800008DE648 /* WQCountLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B771EB82800008DE648 /* WQCountLabel.m */; };
-		4B958B911EB82800008DE648 /* WQEmptyHeaderTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B791EB82800008DE648 /* WQEmptyHeaderTextField.m */; };
-		4B958B921EB82800008DE648 /* WQPlaceholderTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B7B1EB82800008DE648 /* WQPlaceholderTextView.m */; };
-		4B958B931EB82800008DE648 /* WQTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B7F1EB82800008DE648 /* WQTool.m */; };
+		4B958BC31EB832DC008DE648 /* CALayer+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B981EB832DC008DE648 /* CALayer+WQExtension.m */; };
+		4B958BC41EB832DC008DE648 /* NSArray+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B9A1EB832DC008DE648 /* NSArray+WQExtension.m */; };
+		4B958BC51EB832DC008DE648 /* NSAttributedString+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B9C1EB832DC008DE648 /* NSAttributedString+WQExtension.m */; };
+		4B958BC61EB832DC008DE648 /* NSBundle+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958B9E1EB832DC008DE648 /* NSBundle+WQExtension.m */; };
+		4B958BC71EB832DC008DE648 /* NSDictionary+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BA01EB832DC008DE648 /* NSDictionary+WQExtension.m */; };
+		4B958BC81EB832DC008DE648 /* NSObject+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BA21EB832DC008DE648 /* NSObject+WQExtension.m */; };
+		4B958BC91EB832DC008DE648 /* NSString+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BA41EB832DC008DE648 /* NSString+WQExtension.m */; };
+		4B958BCA1EB832DC008DE648 /* UIBarButtonItem+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BA61EB832DC008DE648 /* UIBarButtonItem+WQExtension.m */; };
+		4B958BCB1EB832DC008DE648 /* UIButton+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BA81EB832DC008DE648 /* UIButton+WQExtension.m */; };
+		4B958BCC1EB832DC008DE648 /* UIColor+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BAA1EB832DC008DE648 /* UIColor+WQExtension.m */; };
+		4B958BCD1EB832DC008DE648 /* UIImage+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BAC1EB832DC008DE648 /* UIImage+WQExtension.m */; };
+		4B958BCE1EB832DC008DE648 /* UILabel+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BAE1EB832DC008DE648 /* UILabel+WQExtension.m */; };
+		4B958BCF1EB832DC008DE648 /* UIScreen+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BB01EB832DC008DE648 /* UIScreen+WQExtension.m */; };
+		4B958BD01EB832DC008DE648 /* UIView+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BB21EB832DC008DE648 /* UIView+WQExtension.m */; };
+		4B958BD11EB832DC008DE648 /* UIViewController+WQExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BB41EB832DC008DE648 /* UIViewController+WQExtension.m */; };
+		4B958BD21EB832DC008DE648 /* WQCopyLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BB81EB832DC008DE648 /* WQCopyLabel.m */; };
+		4B958BD31EB832DC008DE648 /* WQCountLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BBA1EB832DC008DE648 /* WQCountLabel.m */; };
+		4B958BD41EB832DC008DE648 /* WQEmptyHeaderTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BBC1EB832DC008DE648 /* WQEmptyHeaderTextField.m */; };
+		4B958BD51EB832DC008DE648 /* WQPlaceholderTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BBE1EB832DC008DE648 /* WQPlaceholderTextView.m */; };
+		4B958BD61EB832DC008DE648 /* WQTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B958BC21EB832DC008DE648 /* WQTool.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,49 +46,49 @@
 		4B958B031EB825E1008DE648 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B958B061EB825E1008DE648 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4B958B081EB825E1008DE648 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4B958B521EB82800008DE648 /* WQAddtions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQAddtions.h; sourceTree = "<group>"; };
-		4B958B541EB82800008DE648 /* CALayer+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CALayer+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B551EB82800008DE648 /* CALayer+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CALayer+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B561EB82800008DE648 /* NSArray+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B571EB82800008DE648 /* NSArray+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B581EB82800008DE648 /* NSAttributedString+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSAttributedString+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B591EB82800008DE648 /* NSAttributedString+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSAttributedString+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B5A1EB82800008DE648 /* NSBundle+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSBundle+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B5B1EB82800008DE648 /* NSBundle+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSBundle+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B5C1EB82800008DE648 /* NSDictionary+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B5D1EB82800008DE648 /* NSDictionary+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B5E1EB82800008DE648 /* NSObject+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B5F1EB82800008DE648 /* NSObject+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B601EB82800008DE648 /* NSString+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B611EB82800008DE648 /* NSString+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B621EB82800008DE648 /* UIBarButtonItem+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B631EB82800008DE648 /* UIBarButtonItem+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B641EB82800008DE648 /* UIButton+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B651EB82800008DE648 /* UIButton+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B661EB82800008DE648 /* UIColor+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B671EB82800008DE648 /* UIColor+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B681EB82800008DE648 /* UIImage+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B691EB82800008DE648 /* UIImage+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B6A1EB82800008DE648 /* UILabel+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B6B1EB82800008DE648 /* UILabel+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B6C1EB82800008DE648 /* UIScreen+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScreen+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B6D1EB82800008DE648 /* UIScreen+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScreen+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B6E1EB82800008DE648 /* UIView+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B6F1EB82800008DE648 /* UIView+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B701EB82800008DE648 /* UIViewController+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+WQExtension.h"; sourceTree = "<group>"; };
-		4B958B711EB82800008DE648 /* UIViewController+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+WQExtension.m"; sourceTree = "<group>"; };
-		4B958B721EB82800008DE648 /* WQExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQExtensions.h; sourceTree = "<group>"; };
-		4B958B741EB82800008DE648 /* WQCopyLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQCopyLabel.h; sourceTree = "<group>"; };
-		4B958B751EB82800008DE648 /* WQCopyLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WQCopyLabel.m; sourceTree = "<group>"; };
-		4B958B761EB82800008DE648 /* WQCountLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQCountLabel.h; sourceTree = "<group>"; };
-		4B958B771EB82800008DE648 /* WQCountLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WQCountLabel.m; sourceTree = "<group>"; };
-		4B958B781EB82800008DE648 /* WQEmptyHeaderTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQEmptyHeaderTextField.h; sourceTree = "<group>"; };
-		4B958B791EB82800008DE648 /* WQEmptyHeaderTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WQEmptyHeaderTextField.m; sourceTree = "<group>"; };
-		4B958B7A1EB82800008DE648 /* WQPlaceholderTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQPlaceholderTextView.h; sourceTree = "<group>"; };
-		4B958B7B1EB82800008DE648 /* WQPlaceholderTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WQPlaceholderTextView.m; sourceTree = "<group>"; };
-		4B958B7C1EB82800008DE648 /* WQSubclass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQSubclass.h; sourceTree = "<group>"; };
-		4B958B7E1EB82800008DE648 /* WQTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQTool.h; sourceTree = "<group>"; };
-		4B958B7F1EB82800008DE648 /* WQTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WQTool.m; sourceTree = "<group>"; };
+		4B958B951EB832DC008DE648 /* WQAddtions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQAddtions.h; sourceTree = "<group>"; };
+		4B958B971EB832DC008DE648 /* CALayer+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CALayer+WQExtension.h"; sourceTree = "<group>"; };
+		4B958B981EB832DC008DE648 /* CALayer+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CALayer+WQExtension.m"; sourceTree = "<group>"; };
+		4B958B991EB832DC008DE648 /* NSArray+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+WQExtension.h"; sourceTree = "<group>"; };
+		4B958B9A1EB832DC008DE648 /* NSArray+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+WQExtension.m"; sourceTree = "<group>"; };
+		4B958B9B1EB832DC008DE648 /* NSAttributedString+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSAttributedString+WQExtension.h"; sourceTree = "<group>"; };
+		4B958B9C1EB832DC008DE648 /* NSAttributedString+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSAttributedString+WQExtension.m"; sourceTree = "<group>"; };
+		4B958B9D1EB832DC008DE648 /* NSBundle+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSBundle+WQExtension.h"; sourceTree = "<group>"; };
+		4B958B9E1EB832DC008DE648 /* NSBundle+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSBundle+WQExtension.m"; sourceTree = "<group>"; };
+		4B958B9F1EB832DC008DE648 /* NSDictionary+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+WQExtension.h"; sourceTree = "<group>"; };
+		4B958BA01EB832DC008DE648 /* NSDictionary+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+WQExtension.m"; sourceTree = "<group>"; };
+		4B958BA11EB832DC008DE648 /* NSObject+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+WQExtension.h"; sourceTree = "<group>"; };
+		4B958BA21EB832DC008DE648 /* NSObject+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+WQExtension.m"; sourceTree = "<group>"; };
+		4B958BA31EB832DC008DE648 /* NSString+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+WQExtension.h"; sourceTree = "<group>"; };
+		4B958BA41EB832DC008DE648 /* NSString+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+WQExtension.m"; sourceTree = "<group>"; };
+		4B958BA51EB832DC008DE648 /* UIBarButtonItem+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+WQExtension.h"; sourceTree = "<group>"; };
+		4B958BA61EB832DC008DE648 /* UIBarButtonItem+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+WQExtension.m"; sourceTree = "<group>"; };
+		4B958BA71EB832DC008DE648 /* UIButton+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+WQExtension.h"; sourceTree = "<group>"; };
+		4B958BA81EB832DC008DE648 /* UIButton+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+WQExtension.m"; sourceTree = "<group>"; };
+		4B958BA91EB832DC008DE648 /* UIColor+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+WQExtension.h"; sourceTree = "<group>"; };
+		4B958BAA1EB832DC008DE648 /* UIColor+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+WQExtension.m"; sourceTree = "<group>"; };
+		4B958BAB1EB832DC008DE648 /* UIImage+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+WQExtension.h"; sourceTree = "<group>"; };
+		4B958BAC1EB832DC008DE648 /* UIImage+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+WQExtension.m"; sourceTree = "<group>"; };
+		4B958BAD1EB832DC008DE648 /* UILabel+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+WQExtension.h"; sourceTree = "<group>"; };
+		4B958BAE1EB832DC008DE648 /* UILabel+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+WQExtension.m"; sourceTree = "<group>"; };
+		4B958BAF1EB832DC008DE648 /* UIScreen+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScreen+WQExtension.h"; sourceTree = "<group>"; };
+		4B958BB01EB832DC008DE648 /* UIScreen+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScreen+WQExtension.m"; sourceTree = "<group>"; };
+		4B958BB11EB832DC008DE648 /* UIView+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+WQExtension.h"; sourceTree = "<group>"; };
+		4B958BB21EB832DC008DE648 /* UIView+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+WQExtension.m"; sourceTree = "<group>"; };
+		4B958BB31EB832DC008DE648 /* UIViewController+WQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+WQExtension.h"; sourceTree = "<group>"; };
+		4B958BB41EB832DC008DE648 /* UIViewController+WQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+WQExtension.m"; sourceTree = "<group>"; };
+		4B958BB51EB832DC008DE648 /* WQExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQExtensions.h; sourceTree = "<group>"; };
+		4B958BB71EB832DC008DE648 /* WQCopyLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQCopyLabel.h; sourceTree = "<group>"; };
+		4B958BB81EB832DC008DE648 /* WQCopyLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WQCopyLabel.m; sourceTree = "<group>"; };
+		4B958BB91EB832DC008DE648 /* WQCountLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQCountLabel.h; sourceTree = "<group>"; };
+		4B958BBA1EB832DC008DE648 /* WQCountLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WQCountLabel.m; sourceTree = "<group>"; };
+		4B958BBB1EB832DC008DE648 /* WQEmptyHeaderTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQEmptyHeaderTextField.h; sourceTree = "<group>"; };
+		4B958BBC1EB832DC008DE648 /* WQEmptyHeaderTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WQEmptyHeaderTextField.m; sourceTree = "<group>"; };
+		4B958BBD1EB832DC008DE648 /* WQPlaceholderTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQPlaceholderTextView.h; sourceTree = "<group>"; };
+		4B958BBE1EB832DC008DE648 /* WQPlaceholderTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WQPlaceholderTextView.m; sourceTree = "<group>"; };
+		4B958BBF1EB832DC008DE648 /* WQSubclass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQSubclass.h; sourceTree = "<group>"; };
+		4B958BC11EB832DC008DE648 /* WQTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WQTool.h; sourceTree = "<group>"; };
+		4B958BC21EB832DC008DE648 /* WQTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WQTool.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +105,6 @@
 		4B958AEB1EB825E1008DE648 = {
 			isa = PBXGroup;
 			children = (
-				4B958B511EB82800008DE648 /* WQAddtions */,
 				4B958AF61EB825E1008DE648 /* WQExtensions */,
 				4B958AF51EB825E1008DE648 /* Products */,
 			);
@@ -122,6 +121,7 @@
 		4B958AF61EB825E1008DE648 /* WQExtensions */ = {
 			isa = PBXGroup;
 			children = (
+				4B958B941EB832DC008DE648 /* WQAddtions */,
 				4B958AFA1EB825E1008DE648 /* AppDelegate.h */,
 				4B958AFB1EB825E1008DE648 /* AppDelegate.m */,
 				4B958AFD1EB825E1008DE648 /* ViewController.h */,
@@ -143,76 +143,76 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		4B958B511EB82800008DE648 /* WQAddtions */ = {
+		4B958B941EB832DC008DE648 /* WQAddtions */ = {
 			isa = PBXGroup;
 			children = (
-				4B958B521EB82800008DE648 /* WQAddtions.h */,
-				4B958B531EB82800008DE648 /* WQExtensions */,
-				4B958B731EB82800008DE648 /* WQSubclasses */,
-				4B958B7D1EB82800008DE648 /* WQTools */,
+				4B958B951EB832DC008DE648 /* WQAddtions.h */,
+				4B958B961EB832DC008DE648 /* WQExtensions */,
+				4B958BB61EB832DC008DE648 /* WQSubclasses */,
+				4B958BC01EB832DC008DE648 /* WQTools */,
 			);
 			path = WQAddtions;
 			sourceTree = SOURCE_ROOT;
 		};
-		4B958B531EB82800008DE648 /* WQExtensions */ = {
+		4B958B961EB832DC008DE648 /* WQExtensions */ = {
 			isa = PBXGroup;
 			children = (
-				4B958B541EB82800008DE648 /* CALayer+WQExtension.h */,
-				4B958B551EB82800008DE648 /* CALayer+WQExtension.m */,
-				4B958B561EB82800008DE648 /* NSArray+WQExtension.h */,
-				4B958B571EB82800008DE648 /* NSArray+WQExtension.m */,
-				4B958B581EB82800008DE648 /* NSAttributedString+WQExtension.h */,
-				4B958B591EB82800008DE648 /* NSAttributedString+WQExtension.m */,
-				4B958B5A1EB82800008DE648 /* NSBundle+WQExtension.h */,
-				4B958B5B1EB82800008DE648 /* NSBundle+WQExtension.m */,
-				4B958B5C1EB82800008DE648 /* NSDictionary+WQExtension.h */,
-				4B958B5D1EB82800008DE648 /* NSDictionary+WQExtension.m */,
-				4B958B5E1EB82800008DE648 /* NSObject+WQExtension.h */,
-				4B958B5F1EB82800008DE648 /* NSObject+WQExtension.m */,
-				4B958B601EB82800008DE648 /* NSString+WQExtension.h */,
-				4B958B611EB82800008DE648 /* NSString+WQExtension.m */,
-				4B958B621EB82800008DE648 /* UIBarButtonItem+WQExtension.h */,
-				4B958B631EB82800008DE648 /* UIBarButtonItem+WQExtension.m */,
-				4B958B641EB82800008DE648 /* UIButton+WQExtension.h */,
-				4B958B651EB82800008DE648 /* UIButton+WQExtension.m */,
-				4B958B661EB82800008DE648 /* UIColor+WQExtension.h */,
-				4B958B671EB82800008DE648 /* UIColor+WQExtension.m */,
-				4B958B681EB82800008DE648 /* UIImage+WQExtension.h */,
-				4B958B691EB82800008DE648 /* UIImage+WQExtension.m */,
-				4B958B6A1EB82800008DE648 /* UILabel+WQExtension.h */,
-				4B958B6B1EB82800008DE648 /* UILabel+WQExtension.m */,
-				4B958B6C1EB82800008DE648 /* UIScreen+WQExtension.h */,
-				4B958B6D1EB82800008DE648 /* UIScreen+WQExtension.m */,
-				4B958B6E1EB82800008DE648 /* UIView+WQExtension.h */,
-				4B958B6F1EB82800008DE648 /* UIView+WQExtension.m */,
-				4B958B701EB82800008DE648 /* UIViewController+WQExtension.h */,
-				4B958B711EB82800008DE648 /* UIViewController+WQExtension.m */,
-				4B958B721EB82800008DE648 /* WQExtensions.h */,
+				4B958B971EB832DC008DE648 /* CALayer+WQExtension.h */,
+				4B958B981EB832DC008DE648 /* CALayer+WQExtension.m */,
+				4B958B991EB832DC008DE648 /* NSArray+WQExtension.h */,
+				4B958B9A1EB832DC008DE648 /* NSArray+WQExtension.m */,
+				4B958B9B1EB832DC008DE648 /* NSAttributedString+WQExtension.h */,
+				4B958B9C1EB832DC008DE648 /* NSAttributedString+WQExtension.m */,
+				4B958B9D1EB832DC008DE648 /* NSBundle+WQExtension.h */,
+				4B958B9E1EB832DC008DE648 /* NSBundle+WQExtension.m */,
+				4B958B9F1EB832DC008DE648 /* NSDictionary+WQExtension.h */,
+				4B958BA01EB832DC008DE648 /* NSDictionary+WQExtension.m */,
+				4B958BA11EB832DC008DE648 /* NSObject+WQExtension.h */,
+				4B958BA21EB832DC008DE648 /* NSObject+WQExtension.m */,
+				4B958BA31EB832DC008DE648 /* NSString+WQExtension.h */,
+				4B958BA41EB832DC008DE648 /* NSString+WQExtension.m */,
+				4B958BA51EB832DC008DE648 /* UIBarButtonItem+WQExtension.h */,
+				4B958BA61EB832DC008DE648 /* UIBarButtonItem+WQExtension.m */,
+				4B958BA71EB832DC008DE648 /* UIButton+WQExtension.h */,
+				4B958BA81EB832DC008DE648 /* UIButton+WQExtension.m */,
+				4B958BA91EB832DC008DE648 /* UIColor+WQExtension.h */,
+				4B958BAA1EB832DC008DE648 /* UIColor+WQExtension.m */,
+				4B958BAB1EB832DC008DE648 /* UIImage+WQExtension.h */,
+				4B958BAC1EB832DC008DE648 /* UIImage+WQExtension.m */,
+				4B958BAD1EB832DC008DE648 /* UILabel+WQExtension.h */,
+				4B958BAE1EB832DC008DE648 /* UILabel+WQExtension.m */,
+				4B958BAF1EB832DC008DE648 /* UIScreen+WQExtension.h */,
+				4B958BB01EB832DC008DE648 /* UIScreen+WQExtension.m */,
+				4B958BB11EB832DC008DE648 /* UIView+WQExtension.h */,
+				4B958BB21EB832DC008DE648 /* UIView+WQExtension.m */,
+				4B958BB31EB832DC008DE648 /* UIViewController+WQExtension.h */,
+				4B958BB41EB832DC008DE648 /* UIViewController+WQExtension.m */,
+				4B958BB51EB832DC008DE648 /* WQExtensions.h */,
 			);
 			path = WQExtensions;
 			sourceTree = "<group>";
 		};
-		4B958B731EB82800008DE648 /* WQSubclasses */ = {
+		4B958BB61EB832DC008DE648 /* WQSubclasses */ = {
 			isa = PBXGroup;
 			children = (
-				4B958B741EB82800008DE648 /* WQCopyLabel.h */,
-				4B958B751EB82800008DE648 /* WQCopyLabel.m */,
-				4B958B761EB82800008DE648 /* WQCountLabel.h */,
-				4B958B771EB82800008DE648 /* WQCountLabel.m */,
-				4B958B781EB82800008DE648 /* WQEmptyHeaderTextField.h */,
-				4B958B791EB82800008DE648 /* WQEmptyHeaderTextField.m */,
-				4B958B7A1EB82800008DE648 /* WQPlaceholderTextView.h */,
-				4B958B7B1EB82800008DE648 /* WQPlaceholderTextView.m */,
-				4B958B7C1EB82800008DE648 /* WQSubclass.h */,
+				4B958BB71EB832DC008DE648 /* WQCopyLabel.h */,
+				4B958BB81EB832DC008DE648 /* WQCopyLabel.m */,
+				4B958BB91EB832DC008DE648 /* WQCountLabel.h */,
+				4B958BBA1EB832DC008DE648 /* WQCountLabel.m */,
+				4B958BBB1EB832DC008DE648 /* WQEmptyHeaderTextField.h */,
+				4B958BBC1EB832DC008DE648 /* WQEmptyHeaderTextField.m */,
+				4B958BBD1EB832DC008DE648 /* WQPlaceholderTextView.h */,
+				4B958BBE1EB832DC008DE648 /* WQPlaceholderTextView.m */,
+				4B958BBF1EB832DC008DE648 /* WQSubclass.h */,
 			);
 			path = WQSubclasses;
 			sourceTree = "<group>";
 		};
-		4B958B7D1EB82800008DE648 /* WQTools */ = {
+		4B958BC01EB832DC008DE648 /* WQTools */ = {
 			isa = PBXGroup;
 			children = (
-				4B958B7E1EB82800008DE648 /* WQTool.h */,
-				4B958B7F1EB82800008DE648 /* WQTool.m */,
+				4B958BC11EB832DC008DE648 /* WQTool.h */,
+				4B958BC21EB832DC008DE648 /* WQTool.m */,
 			);
 			path = WQTools;
 			sourceTree = "<group>";
@@ -289,29 +289,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4B958B821EB82800008DE648 /* NSAttributedString+WQExtension.m in Sources */,
-				4B958B911EB82800008DE648 /* WQEmptyHeaderTextField.m in Sources */,
-				4B958B931EB82800008DE648 /* WQTool.m in Sources */,
-				4B958B831EB82800008DE648 /* NSBundle+WQExtension.m in Sources */,
+				4B958BC51EB832DC008DE648 /* NSAttributedString+WQExtension.m in Sources */,
+				4B958BD41EB832DC008DE648 /* WQEmptyHeaderTextField.m in Sources */,
+				4B958BD61EB832DC008DE648 /* WQTool.m in Sources */,
+				4B958BC61EB832DC008DE648 /* NSBundle+WQExtension.m in Sources */,
 				4B958AFF1EB825E1008DE648 /* ViewController.m in Sources */,
-				4B958B861EB82800008DE648 /* NSString+WQExtension.m in Sources */,
-				4B958B8D1EB82800008DE648 /* UIView+WQExtension.m in Sources */,
-				4B958B801EB82800008DE648 /* CALayer+WQExtension.m in Sources */,
-				4B958B841EB82800008DE648 /* NSDictionary+WQExtension.m in Sources */,
-				4B958B8F1EB82800008DE648 /* WQCopyLabel.m in Sources */,
-				4B958B811EB82800008DE648 /* NSArray+WQExtension.m in Sources */,
-				4B958B881EB82800008DE648 /* UIButton+WQExtension.m in Sources */,
-				4B958B901EB82800008DE648 /* WQCountLabel.m in Sources */,
-				4B958B891EB82800008DE648 /* UIColor+WQExtension.m in Sources */,
+				4B958BC91EB832DC008DE648 /* NSString+WQExtension.m in Sources */,
+				4B958BD01EB832DC008DE648 /* UIView+WQExtension.m in Sources */,
+				4B958BC31EB832DC008DE648 /* CALayer+WQExtension.m in Sources */,
+				4B958BC71EB832DC008DE648 /* NSDictionary+WQExtension.m in Sources */,
+				4B958BD21EB832DC008DE648 /* WQCopyLabel.m in Sources */,
+				4B958BC41EB832DC008DE648 /* NSArray+WQExtension.m in Sources */,
+				4B958BCB1EB832DC008DE648 /* UIButton+WQExtension.m in Sources */,
+				4B958BD31EB832DC008DE648 /* WQCountLabel.m in Sources */,
+				4B958BCC1EB832DC008DE648 /* UIColor+WQExtension.m in Sources */,
 				4B958AFC1EB825E1008DE648 /* AppDelegate.m in Sources */,
-				4B958B851EB82800008DE648 /* NSObject+WQExtension.m in Sources */,
-				4B958B8B1EB82800008DE648 /* UILabel+WQExtension.m in Sources */,
-				4B958B871EB82800008DE648 /* UIBarButtonItem+WQExtension.m in Sources */,
+				4B958BC81EB832DC008DE648 /* NSObject+WQExtension.m in Sources */,
+				4B958BCE1EB832DC008DE648 /* UILabel+WQExtension.m in Sources */,
+				4B958BCA1EB832DC008DE648 /* UIBarButtonItem+WQExtension.m in Sources */,
 				4B958AF91EB825E1008DE648 /* main.m in Sources */,
-				4B958B8A1EB82800008DE648 /* UIImage+WQExtension.m in Sources */,
-				4B958B8E1EB82800008DE648 /* UIViewController+WQExtension.m in Sources */,
-				4B958B8C1EB82800008DE648 /* UIScreen+WQExtension.m in Sources */,
-				4B958B921EB82800008DE648 /* WQPlaceholderTextView.m in Sources */,
+				4B958BCD1EB832DC008DE648 /* UIImage+WQExtension.m in Sources */,
+				4B958BD11EB832DC008DE648 /* UIViewController+WQExtension.m in Sources */,
+				4B958BCF1EB832DC008DE648 /* UIScreen+WQExtension.m in Sources */,
+				4B958BD51EB832DC008DE648 /* WQPlaceholderTextView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
